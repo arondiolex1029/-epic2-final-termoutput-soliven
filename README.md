@@ -1,2 +1,2 @@
-# -epic2-final-termoutput-soliven
-Mandala pattern using p5.js web editor
+I made this Mandala pattern through p5.js Web Editor.
+I'm new to this so I only made a simple design.
